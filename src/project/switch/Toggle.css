@@ -1,0 +1,50 @@
+/* .toggle-swtich{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 75px;
+    border-radius: 70px;
+    position: relative;
+    
+}
+.switch{
+    background-color: red;
+    border-radius: 100%;
+    padding: 40px;
+    display: flex;
+    position: absolute;
+    
+    left: 9px;
+    top: 11px;
+    border: 10px solid gray;
+    transition: transform 0.3s linear, background-color 0.3s linear;
+}
+.circle{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+}
+.on{
+    background-color: yellowgreen;
+    transform: translateX(219px);
+   
+}
+.off{
+    background-color: red;
+    transform: translateX(0);
+}
+.title{
+    text-align: center;
+    margin: 10px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+}
+.logo{
+    text-align: center;
+    margin: 10px;
+} */
